@@ -2,6 +2,36 @@
 <urlset>
     <url>
         <loc>
+            http://localhost:8000/the-science-behind-mindfulness-what-happens-to-your-brain/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/how-to-start-a-mindfulness-practice-without-feeling-overwhelmed/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/the-5-pillars-of-mental-health-and-how-to-build-a-routine-around-them/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tiny-wins-why-your-routine-doesnt-have-to-be-perfect-to-work/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/mood-boosting-foods-you-can-add-to-your-next-grocery-trip/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/anxiety-caffeine-are-your-coffee-habits-making-you-spiral/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -43,6 +73,11 @@
     <url>
         <loc>
             http://localhost:8000/products-2/sample-product-page-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
         </loc>
     </url>
     <url>
