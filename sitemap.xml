@@ -92,6 +92,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/meditation-cushion/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/yoga-mat/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/mindful-journal/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/mindfulness/
         </loc>
     </url>
@@ -338,6 +353,21 @@
     <url>
         <loc>
             http://localhost:8000/tag/stress-relief/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/mindfulness-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/meditation-and-yoga/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/healthy-foods-herbal-wellness/
         </loc>
     </url>
     <url>
