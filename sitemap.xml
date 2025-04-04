@@ -32,12 +32,22 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/simple-breathing-techniques-you-can-do-anywhere/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/
+            http://localhost:8000/the-psychology-of-addiction-how-to-create-phone-boundaries/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/screens-dopamine-mental-fatigue-the-real-cost-of-scrolling/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
         </loc>
     </url>
     <url>
@@ -62,22 +72,262 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/
+            http://localhost:8000/welcome-to-the-blog/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/sample-product-page/
+            http://localhost:8000/products/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/sample-product-page-2/
+            http://localhost:8000/category/mindfulness/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/category/meditation/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/nervous-system-mental-health/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/routine-building/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/food-and-mood/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/attention-span/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/brain-fog/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/digital-overstimulation/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/dopamine-fatigue/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/screen-burnout/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/attention-reclaiming/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/dopamine-loop/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/healthy-tech-habits/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/phone-addiction/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/screen-time-boundaries/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/anxiety-science/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/breath-and-body/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/est-and-digest/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/nervous-system-education/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/stress-response/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/box-breathing/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/breath-exercises/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/calming-techniques/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/nervous-system-regulation/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/brain-food/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/food-and-mood/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/foods-that-reduce-anxiety/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/gut-brain-connection/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/healthy-grocery-list/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/holistic-wellness/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/mental-health-nutrition/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/mood-boosting-foods/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/gentle-productivity/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/habit-building/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/mental-health-routine/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/self-compassion/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/tiny-wins/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/emotional-self-care/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/healthy-habits/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/mental-health-foundation/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/sleep-nutrition-movement/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/beginner-friendly-mindfulness/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/easy-meditation/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/mindfulness-routine/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/no-pressure-self-care/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/brain-health/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/meditation-science/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/mindfulness-benefits/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/neuroplasticity/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/stress-relief/
         </loc>
     </url>
     <url>
